@@ -13,9 +13,9 @@ Features:
 - MD5 (Password)
 
 Member:
-E-mail: sample@gmail.com
-Password: hello
+- E-mail: sample@gmail.com
+- Password: hello
 
 Admin:
-E-mail: admin@gmail.com
-Password: hello
+- E-mail: admin@gmail.com
+- Password: hello
