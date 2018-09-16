@@ -11,6 +11,7 @@ Functions:
 
 Features:
 - MD5 (Password)
+- Object-Oriented Coding (almost all)
 
 Member:
 - E-mail: sample@gmail.com
